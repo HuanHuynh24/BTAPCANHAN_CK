@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable baseline_restore_from_trash_24
+drawable baseline_sticky_note_2_24
+drawable baseline_supervised_user_circle_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id bottomAppBar
+id bottomNavigationView
+id frame
+id img
+id listproduct
+id menu_bt
+id menu_info
+id title
+id title2
+layout activity_main
+layout fragment_btap
+layout fragment_profile2
+layout item_list
+menu main_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+string msv
+string name
+style Base.Theme.HUYNHNGOCHUAN_BTCANHANCK
+style Theme.HUYNHNGOCHUAN_BTCANHANCK
+xml backup_rules
+xml data_extraction_rules
